@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonam Nimje</h1>
 🧠 About Me: 
 
- ---
- 
+
 🔍 Passionate about blending Internet of Things, Cybersecurity, and Blockchain to build secure, smart, and decentralized solutions. Always learning and experimenting to push tech boundaries. 🛡️📡⛓️
 
 ---
