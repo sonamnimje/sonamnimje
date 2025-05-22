@@ -48,9 +48,19 @@
 
 ---
 
-## 📊 GitHub Streak:
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sonamnimje&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sonamnimje&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+## 📊 GitHub Stats
+
+![Sonam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonamnimje&show_icons=true&theme=tokyonight)
+
+## 🧠 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonamnimje&layout=compact&theme=tokyonight)
+
+
 
 ---
 
